@@ -38,10 +38,10 @@
 
 🌐 Connect with me:
 <p align="center">
-  <a href="" target="blank">
+  <a href="www.linkedin.com/in/devireddy-poojithareddy-6253a8277" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-465149?style=for-the-badge"/>
   </a>
-  <a href="" target="blank">
+  <a href="https://www.hackerrank.com/profile/poojithareddy261" target="blank">
     <img src="https://img.shields.io/badge/Hackerrank-465149?style=for-the-badge"/>
   </a>
   <a href="" target="blank">
