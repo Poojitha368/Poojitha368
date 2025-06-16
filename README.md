@@ -6,8 +6,6 @@
 I'm a Machine Learning Enthusiast and Full Stack Developer.
 I'm here to turn imagination into innovation through coding.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-
 - 🔭 I’m currently working on a machine learning project
 - 🌱 I’m currently learning advanced deep learning techniques
 - 👯 I’m looking to collaborate on ML and full stack development projects
@@ -40,12 +38,6 @@ I'm here to turn imagination into innovation through coding.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4A148C?style=for-the-badge&logo=nosql&logoColor=white)
 
-### Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-
 ### Domains
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -61,7 +53,3 @@ I'm here to turn imagination into innovation through coding.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojithareddy2662004@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Poojitha_No1/)
 
-<!-- Add more badges as needed -->
-
-### 🎉 Fun Animation
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
